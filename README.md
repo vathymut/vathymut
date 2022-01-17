@@ -10,7 +10,7 @@
 
 * 🔭 Currently working at [Royal Bank of Canada (RBC)](https://www.rbc.com)
 * 💬 &nbsp;I speak Python, SQL and R fluently; I get by in Javascript, Julia, Clojure, F# and a few others<sup>1</sup>.
-* 🌱 &nbsp;My research interests focus on robustness and Bayesian methods. I’m happy to collaborate on these.
+* 🌱 &nbsp;My research interests focus on statistical machine learning, model diagnostics and robustness. I’m happy to collaborate on these.
 * 📫 &nbsp;How to reach me:
   * For my github repos, file an an issue in the corresponding github repo
   * For others, email vathymut@gmail.com (English and/or French)
