@@ -14,7 +14,7 @@
 * 📫 &nbsp;How to reach me:
   * For my github repos, file an an issue in the corresponding github repo
   * For others, email vathymut@gmail.com (English and/or French)
-* 📝 I will, once in a blue moon, blog but not just yet
+* 📝 I do, once in a blue moon, [blog](https://vathymut.org/).
 
 <table><tr><td>
 
